@@ -1,0 +1,15 @@
+75ae5b82c7d096c5cb8967d0b863e975 *DESCRIPTION
+0dbf612d3e86fd9f9d2f793f3f2506e5 *NAMESPACE
+a41cee6ffc8853a82b2b5db6f6eb288a *NEWS.md
+af314b04f8d25074876a62b992bbd953 *R/AUC_IF.r
+ae4bf011e39967e2036452d68a6d9e86 *R/AUC_boot.r
+b9159e5d70772daa0f49ccc717bddeee *R/AUC_comparison.r
+afbe4209b3bb961ba3e41cbfe79ea507 *build/partial.rdb
+912c8b5448230a602e987ccc59b7520d *data/asthma.RData
+162d73519c74a5333cb81aaa8bf85665 *data/cervical.RData
+c5910a8cf676d2dd58a31ef69e8180fe *man/AUC_IF.Rd
+d4c3c5f725d923696c5a63ec6697388e *man/AUC_boot.Rd
+15928f9ff4c0182e38d580e7bf2bcabf *man/AUC_comparison.Rd
+2a36b713eb5f5677db82ae927cf90c4e *man/asthma.Rd
+00a5c0c84ef7074a5156cfa1ca658b67 *man/cervical.Rd
+d93b9c7c8ca65d6bd75c54c76717fb91 *man/dmetatools.Rd

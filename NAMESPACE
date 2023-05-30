@@ -1,0 +1,6 @@
+import(stats)
+import(MASS)
+import(mada)
+export(AUC_boot)
+export(AUC_IF)
+export(AUC_comparison)
